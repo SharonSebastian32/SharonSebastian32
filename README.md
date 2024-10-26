@@ -44,8 +44,8 @@ Welcome to my GitHub profile! I specialize in creating powerful, responsive appl
 ### 🤝 Get in Touch
 - **GitHub**: [Sharon788](https://github.com/SharonSebastian32)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com)
-- **Email**: [your-email@example.com](mailto:sharonsebastian81@gmail.com)
+- **Email**: [sharonsebastian81@gmail.com](mailto:sharonsebastian81@gmail.com)
 
----
+ 
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you’d like to collaborate.

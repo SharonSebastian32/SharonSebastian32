@@ -1,7 +1,4 @@
-Here’s a professional README template for your GitHub profile, focusing on your skills in MERN stack and AI/ML engineering.
-
----
-
+ 
 # Sharon Sebastian
 
 **MERN Stack Developer | AI & Machine Learning Enthusiast**
